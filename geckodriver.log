@@ -1,0 +1,52 @@
+1677966161204	geckodriver	INFO	Listening on 127.0.0.1:61911
+1677966165452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAzREyi"
+1677966185529	geckodriver	INFO	Listening on 127.0.0.1:62012
+1677966189786	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilead4FCU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677966190558	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677966190562	Marionette	INFO	Listening on port 62029
+Read port: 62029
+WebDriver BiDi listening on ws://127.0.0.1:62013
+1677966190643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62013/devtools/browser/cb7c7a34-0efe-43f7-97a2-de4cfa81c35c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+1677966206086	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://docs.google.com."
+1677966257670	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
